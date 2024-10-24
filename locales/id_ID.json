@@ -1,0 +1,92 @@
+{
+  "intro": "Assalamu'alaikum Wr. Wb. 👋\n\nSelamat datang di MAN 1 Surakarta. Silakan pilih menu dengan mengetik nomor yang tersedia:",
+  "template.menu": "Ketik *{{number}}* : *{{menu}}*",
+
+  "menu": {
+    "title": "Menu Layanan",
+    "1": "Informasi Pendaftaran",
+    "2": "Biaya Pendidikan",
+    "3": "Program Unggulan",
+    "4": "Jadwal Kegiatan",
+    "5": "Fasilitas Sekolah",
+    "6": "Hubungi Resepsionis"
+  },
+
+  "submenu": {
+    "1": {
+      "title": "📝 Informasi Pendaftaran",
+      "1": "Syarat Pendaftaran",
+      "2": "Jadwal Pendaftaran",
+      "3": "Alur Pendaftaran",
+      "4": "Dokumen yang Diperlukan",
+      "5": "Kembali ke Menu Utama"
+    },
+    "2": {
+      "title": "💰 Biaya Pendidikan",
+      "1": "Biaya SPP",
+      "2": "Biaya Masuk",
+      "3": "Program Beasiswa",
+      "4": "Sistem Pembayaran",
+      "5": "Kembali ke Menu Utama"
+    },
+    "3": {
+      "title": "🏆 Program Unggulan",
+      "1": "Program Tahfidz",
+      "2": "Program Bahasa",
+      "3": "Program Akademik",
+      "4": "Ekstrakurikuler",
+      "5": "Kembali ke Menu Utama"
+    },
+    "4": {
+      "title": "📅 Jadwal Kegiatan",
+      "1": "Jadwal Belajar",
+      "2": "Jadwal Ujian",
+      "3": "Kalender Akademik",
+      "4": "Kegiatan Khusus",
+      "5": "Kembali ke Menu Utama"
+    },
+    "5": {
+      "title": "🏫 Fasilitas Sekolah",
+      "1": "Fasilitas Pembelajaran",
+      "2": "Fasilitas Olahraga",
+      "3": "Fasilitas Asrama",
+      "4": "Fasilitas Pendukung",
+      "5": "Kembali ke Menu Utama"
+    }
+  },
+
+  "content": {
+    "1.1": "📋 Syarat Pendaftaran:\n\n1. Fotokopi Ijazah/SKL\n2. Fotokopi Rapor\n3. Fotokopi KK\n4. Fotokopi Akta Kelahiran\n5. Pas Foto 3x4",
+    "1.2": "📅 Jadwal Pendaftaran:\n\nGelombang 1: 1 Jan - 28 Feb\nGelombang 2: 1 Mar - 30 Apr\nGelombang 3: 1 Mei - 30 Jun",
+    "1.3": "🔄 Alur Pendaftaran:\n\n1. Registrasi Online\n2. Upload Dokumen\n3. Verifikasi\n4. Tes Seleksi\n5. Pengumuman\n6. Daftar Ulang",
+    "1.4": "📑 Dokumen yang Diperlukan:\n\n- Formulir Pendaftaran\n- Berkas Akademik\n- Berkas Pribadi\n- Surat Pernyataan",
+
+    "2.1": "💳 Biaya SPP:\n\nRegular: Rp 500.000/bulan\nBeasiswa: Rp 250.000/bulan",
+    "2.2": "📊 Biaya Masuk:\n\n- Uang Pangkal\n- Seragam\n- Buku dan Alat\n- Orientasi",
+    "2.3": "🎓 Program Beasiswa:\n\n1. Beasiswa Prestasi\n2. Beasiswa Tahfidz\n3. Beasiswa Dhuafa",
+    "2.4": "💰 Sistem Pembayaran:\n\n- Transfer Bank\n- Virtual Account\n- Pembayaran di Tempat",
+
+    "3.1": "📖 Program Tahfidz:\n\n- Target 5 Juz/Tahun\n- Pembimbing Bersertifikat\n- Evaluasi Berkala",
+    "3.2": "🗣️ Program Bahasa:\n\n- English Day\n- Arabic Day\n- Native Speaker",
+    "3.3": "📚 Program Akademik:\n\n- Kelas Olimpiade\n- Bimbingan UTBK\n- Research Club",
+    "3.4": "🎨 Ekstrakurikuler:\n\n- Olahraga\n- Seni\n- Teknologi\n- Leadership",
+
+    "4.1": "📚 Jadwal Belajar:\n\nSenin-Jumat: 07.00 - 15.30\nSabtu: 07.00 - 12.00",
+    "4.2": "📝 Jadwal Ujian:\n\n- UTS: Maret & September\n- UAS: Juni & Desember",
+    "4.3": "📅 Kalender Akademik:\n\nTahun Ajaran: Juli - Juni\nLibur Semester: Des-Jan & Jun-Jul",
+    "4.4": "🎉 Kegiatan Khusus:\n\n- Study Tour\n- Leadership Camp\n- Science Fair",
+
+    "5.1": "🎓 Fasilitas Pembelajaran:\n\n- Lab Komputer\n- Perpustakaan Digital\n- Studio Multimedia",
+    "5.2": "⚽ Fasilitas Olahraga:\n\n- Lapangan Futsal\n- Gym\n- Kolam Renang",
+    "5.3": "🏠 Fasilitas Asrama:\n\n- Kamar AC\n- Kantin\n- Laundry\n- Klinik",
+    "5.4": "🏢 Fasilitas Pendukung:\n\n- Wifi\n- Musholla\n- Aula\n- Kantin"
+  },
+
+  "messages": {
+    "welcome": "Assalamu'alaikum Wr. Wb. 👋\n\nSelamat datang di Layanan Chat MAN 1 Surakarta",
+    "invalid_input": "Maaf, pilihan tidak valid. Silakan ketik menu yang tersedia.",
+    "back_to_menu": "Ketik 'menu' untuk kembali ke Menu Utama",
+    "connect_admin": "👩‍💼 Anda akan terhubung dengan resepsionis kami.\nMohon tunggu sebentar, resepsionis akan segera merespon.\n\nUntuk kembali ke menu utama, ketik 'menu'",
+    "menu_footer": "\nSilakan ketik nomor menu yang Anda pilih"
+  }
+}
